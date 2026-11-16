@@ -4,7 +4,7 @@ import os
 cwd = GetCurrentDir()
 path = [os.path.join(cwd, 'n32h47x_48x_std_periph_driver/inc')]
 
-src_path = os.path.join(cwd, 'n32h47x_48x_std_periph_driver/src')
+src_path = 'n32h47x_48x_std_periph_driver/src'
 
 # Select library file
 src = [
